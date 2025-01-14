@@ -1,1 +1,1 @@
-Aula 26 do curso de análise de dados do SENAC.
+Aula final do curso de análise de dados do SENAC.
